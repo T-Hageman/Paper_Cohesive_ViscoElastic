@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use these input files, please cite the paper below."
+type: software
+title: "Input files for: Fracture and creep as a single constitutive problem: strength-based phase-field modelling of nucleation, propagation and creep relaxation"
+authors:
+  - family-names: Hageman
+    given-names: Tim
+    affiliation: "Department of Engineering Science, University of Oxford"
+    orcid: "https://orcid.org/0000-0001-7770-7440"
+license: MIT
+repository-code: "https://github.com/T-Hageman/Paper_Cohesive_ViscoElastic"
+keywords:
+  - phase-field fracture
+  - cohesive fracture
+  - creep
+  - viscoelasticity
+  - ice
+  - FEMCubes
+references:
+  - type: software
+    title: "FEMCubes: a modular multi-physics finite-element framework built on FEniCSx"
+    authors:
+      - family-names: Hageman
+        given-names: Tim
+        orcid: "https://orcid.org/0000-0001-7770-7440"
+    version: 0.1.0
+    repository-code: "https://github.com/T-Hageman/FEMCubes"
+preferred-citation:
+  type: article
+  title: "Fracture and creep as a single constitutive problem: strength-based phase-field modelling of nucleation, propagation and creep relaxation"
+  authors:
+    - family-names: Hageman
+      given-names: Tim
+      affiliation: "Department of Engineering Science, University of Oxford"
+      orcid: "https://orcid.org/0000-0001-7770-7440"
+  year: 2026
+  journal: "Computer Methods in Applied Mechanics and Engineering"
+  status: submitted
+  # TODO: add the arXiv identifier once known, e.g.
+  # identifiers:
+  #   - type: other
+  #     value: "arXiv:XXXX.XXXXX"
+  #     description: "arXiv preprint"

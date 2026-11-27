@@ -1,0 +1,20 @@
+{
+  "task_id": 43,
+  "name": "Results_lSweep_LO_HighRate_GcCorr0.33/l_0.01",
+  "figure": 11,
+  "parameters": {
+    "viscModel": "Glen",
+    "HighOrder": false,
+    "mech_solver": "Newton",
+    "end_displacement": 0.0001,
+    "l": 0.01,
+    "dxratio": 4,
+    "Gc": 1.0,
+    "rate": 2.5e-09,
+    "MeshRef": true,
+    "gc_correction": 0.33
+  },
+  "icecubes_commit": "285a7fdbf97e33806c943111fdbf251883ac5166",
+  "mpi_ranks": 26,
+  "started": "2026-11-04T22:51:19"
+}

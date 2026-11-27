@@ -1,0 +1,25 @@
+# Simulation results (large; written by the scripts in simulations/ and read by postprocessing/)
+results/
+
+# Figures, stills and movies (written by the scripts in postprocessing/ and matlab/)
+figures/
+postprocessing/FailureSurf.hdf5
+postprocessing/FailureSurf.png
+matlab/*.pdf
+matlab/*.eps
+matlab/*.png
+tmp/
+
+# Run logs
+*.log
+nohup.out
+slurm-*.out
+
+# Python and editors
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store

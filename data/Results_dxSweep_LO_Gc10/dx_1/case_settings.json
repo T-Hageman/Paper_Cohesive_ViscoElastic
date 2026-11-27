@@ -1,0 +1,19 @@
+{
+  "task_id": 20,
+  "name": "Results_dxSweep_LO_Gc10/dx_1",
+  "figure": 10,
+  "parameters": {
+    "viscModel": "Glen",
+    "HighOrder": false,
+    "mech_solver": "Newton",
+    "end_displacement": 0.00035,
+    "l": 0.02,
+    "dxratio": 1,
+    "Gc": 10.0,
+    "rate": 1.5e-09,
+    "MeshRef": false
+  },
+  "icecubes_commit": "ce4763f08731995d599fa549226d24bf16bc8111",
+  "mpi_ranks": 26,
+  "started": "2026-11-02T23:12:22"
+}

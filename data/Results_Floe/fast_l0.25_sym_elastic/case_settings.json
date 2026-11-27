@@ -1,0 +1,16 @@
+{
+  "task_id": 8,
+  "name": "Results_Floe/fast_l0.25_sym_elastic",
+  "parameters": {
+    "rate_name": "fast",
+    "strain_rate": 1e-08,
+    "ell": 0.25,
+    "Gc": 5.0,
+    "symmetric": true,
+    "max_levels_per_step": 1,
+    "rheology": "elastic"
+  },
+  "icecubes_commit": "0f8ae5ba0563623bc8198b89dc6d830cfe993c4f",
+  "mpi_ranks": 8,
+  "started": "2026-11-19T10:20:15"
+}

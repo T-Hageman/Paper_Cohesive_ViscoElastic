@@ -1,0 +1,20 @@
+{
+  "task_id": 8,
+  "name": "Results_dxSweep_LO_GcCorr0.33/dx_4",
+  "figure": 9,
+  "parameters": {
+    "viscModel": "Glen",
+    "HighOrder": false,
+    "mech_solver": "Newton",
+    "end_displacement": 0.0001,
+    "l": 0.02,
+    "dxratio": 4,
+    "Gc": 1.0,
+    "rate": 1.5e-09,
+    "MeshRef": false,
+    "gc_correction": 0.33
+  },
+  "icecubes_commit": "285a7fdbf97e33806c943111fdbf251883ac5166",
+  "mpi_ranks": 26,
+  "started": "2026-11-04T00:00:22"
+}

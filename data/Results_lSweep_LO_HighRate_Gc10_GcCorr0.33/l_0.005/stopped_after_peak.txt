@@ -1,0 +1,5 @@
+Stopped by hand on 14 Nov 2026, on the descending branch: only the peak load of this case is used
+(length-scale study, peak-load panel), so the run was not continued to the F_Cutoff end.
+Last step 142, top displacement 0.0429 mm, load 89.9% of the peak.
+Peak load 209581 N at step 112, top displacement 0.0339 mm.
+Not a completed run: there is no simulation_time.txt, and the driver will rerun the case if asked.

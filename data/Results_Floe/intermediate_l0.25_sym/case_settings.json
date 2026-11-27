@@ -1,0 +1,15 @@
+{
+  "task_id": 6,
+  "name": "Results_Floe/intermediate_l0.25_sym",
+  "parameters": {
+    "rate_name": "intermediate",
+    "strain_rate": 2.5e-09,
+    "ell": 0.25,
+    "Gc": 5.0,
+    "symmetric": true,
+    "max_levels_per_step": 1
+  },
+  "icecubes_commit": "0f8ae5ba0563623bc8198b89dc6d830cfe993c4f",
+  "mpi_ranks": 8,
+  "started": "2026-11-19T10:20:15"
+}

@@ -1,0 +1,2 @@
+Total simulation time: 214.08 seconds
+Number of elements: 1066

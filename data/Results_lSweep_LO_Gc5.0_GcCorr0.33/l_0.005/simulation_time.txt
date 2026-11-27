@@ -1,0 +1,4 @@
+Total simulation time: 202839.63 seconds
+Number of elements before refinement: 13895
+Number of elements after refinement: 292545
+Total number of degrees of freedom: 1318980
